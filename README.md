@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/exported_dashboard_images/logo.png" alt="Maple Mart Logo" width="140">
+  <img src="docs/exported_dashboard_images/logo.png" alt="Maple Mart Logo" width="540">
 </p>
 
 # Maple Mart Grocery Outlet Performance Analysis
@@ -57,7 +57,7 @@ The analysis was completed in a structured Excel workflow that separates raw dat
 
 ### Dashboard Preview
 
-![Full Dashboard](docs/exported_dashboard_images/dashboard_full.png)
+<img src="docs/exported_dashboard_images/dashboard_full.png" width="850">
 
 ### Raw Data
 
@@ -93,7 +93,7 @@ A full screenshot of the dashboard is available in `docs/exported_dashboard_imag
 
 ## 4. Executive Summary
 
-![KPI Cards](docs/exported_dashboard_images/kpi_cards.png)
+<img src="docs/exported_dashboard_images/kpi_cards.png" width="600">
 
 Maple Mart generated approximately **1.20 million** in sales across the dataset, with customer ratings averaging close to **4 out of 5**. **Low Fat** items accounted for about two thirds of total revenue, driven mainly by strong performance in **Fruits and Vegetables** and **Snack Foods**.
 
@@ -105,37 +105,37 @@ Overall, the analysis highlights clear opportunities to strengthen **health focu
 
 ### 5.1 Sales Mix by Product Health Profile
 
-![Sales by Fat Content](docs/exported_dashboard_images/sales_by_fat_content.png)
+<img src="docs/exported_dashboard_images/sales_by_fat_content.png" width="400">
 
 Low Fat products generated about **776 thousand** in revenue, representing roughly sixty five percent of total sales. Regular products contributed around **425 thousand**. This indicates that Maple Mart customers show a strong preference for health focused or diet friendly items. The trend is most pronounced in high volume categories such as Fruits and Vegetables and Snack Foods.
 
 ### 5.2 Sales by Outlet Location Tier
 
-![Fat Content by Location Tier](docs/exported_dashboard_images/fat_content_by_location.png)
+<img src="docs/exported_dashboard_images/fat_content_by_location.png" width="400">
 
 Tier 3 locations produced the highest revenue among all tiers, outperforming both Tier 1 and Tier 2 regions. This suggests that Maple Mart’s strongest demand comes from smaller or emerging Canadian markets rather than the largest metropolitan areas. Expansion efforts may benefit from prioritizing Tier 3 regions where adoption appears strongest.
 
 ### 5.3 Sales by Item Type
 
-![Sales by Item Type](docs/exported_dashboard_images/sales_by_item_type.png)
+<img src="docs/exported_dashboard_images/sales_by_item_type.png" width="300">
 
 Fruits and Vegetables and Snack Foods are the two leading categories by total sales, together accounting for a major share of revenue. Household items and Frozen Foods follow as mid tier performers. Categories such as Seafood and Breakfast contribute relatively little volume, indicating the presence of niche segments with limited demand.
 
 ### 5.4 Outlet Size Performance
 
-![Sales by Outlet Size](docs/exported_dashboard_images/sales_by_outlet_size.png)
+<img src="docs/exported_dashboard_images/sales_by_outlet_size.png" width="350">
 
 Medium sized outlets generated the highest overall revenue at approximately 507 thousand. Small outlets contributed around 444 thousand and High capacity outlets contributed around 249 thousand. Medium outlets appear to be the operational sweet spot, delivering strong performance while balancing cost and capacity.
 
 ### 5.5 Outlet Type Metrics
 
-![Outlet Type Metrics](docs/exported_dashboard_images/outlet_type_metrics.png)
+<img src="docs/exported_dashboard_images/outlet_type_metrics.png" width="500">
 
 Supermarket Type1 locations contributed about 787 thousand in total sales, making them the strongest format in the network. Grocery Store partner locations contributed around 151 thousand, showing meaningful performance despite smaller scale. Average sales and item counts reflect consistent productivity across formats, with Type1 outlets leading all metrics.
 
 ### 5.6 Sales by Outlet Establishment Year
 
-![Sales by Establishment Year](docs/exported_dashboard_images/sales_by_establishment_year.png)
+<img src="docs/exported_dashboard_images/sale_by_establishment_year.png" width="500">
 
 Sales appear relatively stable across establishment years, with newer outlets ramping quickly and contributing significant revenue. The trend indicates that Maple Mart’s expansion strategy is effective and that newly launched outlets reach steady performance levels without long ramp up periods.
 
@@ -225,3 +225,4 @@ To explore the visuals
 
 A full image of the dashboard is also available for quick viewing in
 `docs/exported_dashboard_images/dashboard_full.png`
+
